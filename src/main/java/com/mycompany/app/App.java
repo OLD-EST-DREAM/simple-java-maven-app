@@ -6,6 +6,8 @@ package com.mycompany.app;
 public class App {
 
     private static final String MESSAGE = "Hello World!";
+    
+    this is a compilation error;
 
     public App() {}
 
